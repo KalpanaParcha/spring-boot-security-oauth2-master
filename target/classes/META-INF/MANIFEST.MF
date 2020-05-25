@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-security-oauth2-example
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: w2cluster173
+Implementation-Vendor-Id: com.devglan
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-security-oauth2-example
+Created-By: Maven Integration for Eclipse
+
